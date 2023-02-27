@@ -8,5 +8,6 @@ ciri-ciri decul
 -baperan
 -ngarep messi balik
 -beli elit bayar gaji sulit
+ -pemain elite bayar gaji sulit
 -pelawak eropa
 
